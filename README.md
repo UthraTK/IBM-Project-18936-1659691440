@@ -10,17 +10,19 @@
 Natural Disasters Intensity Analysis and Classification is a simple ML and DL based website which classifies the type of natural disaster and analyses its intensity.
 
 ## :arrow_forward: SKILLS REQUIRED
- `🔷 Python  
-  🔶 CNN
+ `🔷 Python
+  🔶 Convolutional Neural Network (CNN)
   🔷 IBM Cloud
   🔶 IBM Watson Studio
   🔷 IBM Cloudant DB
-  🔶 Deep Learning
-  🔷 Python-Flask`
+  🔶 Deep Learning`
+  
+ `🔷 Python-Flask
+  🔶 Reinforcement Learning`
   
 ## :arrow_forward: TOOLS USED
  <p align="left">
-<img src="https://icongr.am/simple/anaconda.svg?size=80&color=23e60a&colored=false" alt="anaconda" width="45" height="45"/>
+<img src="https://icongr.am/simple/anaconda.svg?size=80&color=23e60a&colored=false" alt="anaconda" width="45" height="45"/> 
 <img src="https://icongr.am/simple/ibm.svg?size=80&color=000000&colored=false" alt="ibm" width="45" height="45"/>
 <img src="https://icongr.am/devicon/python-original.svg?size=80&color=currentColor" alt="python" width="45" height="45"/>
 <img src="https://icongr.am/devicon/github-original.svg?size=80&color=currentColor" alt="github" width="45" height="45"/>
