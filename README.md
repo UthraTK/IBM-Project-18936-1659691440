@@ -14,9 +14,9 @@ Natural Disasters Intensity Analysis and Classification is a simple ML and DL ba
   🔶 Convolutional Neural Network (CNN)
   🔷 IBM Cloud
   🔶 IBM Watson Studio
-  🔷 IBM Cloudant DB
+  🔷 IBM Cloudant DB`
   
- `🔶 Deep Learning`
+ `🔶 Deep Learning
   🔷 Python-Flask
   🔶 Reinforcement Learning`
   
