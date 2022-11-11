@@ -22,15 +22,15 @@ Natural Disasters Intensity Analysis and Classification is a simple ML and DL ba
   
 ## :arrow_forward: TOOLS USED
  <p align="left">
-<img src="https://icongr.am/simple/anaconda.svg?size=80&color=23e60a&colored=false" alt="anaconda" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
-<img src="https://icongr.am/simple/ibm.svg?size=80&color=000000&colored=false" alt="ibm" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://icongr.am/devicon/python-original.svg?size=80&color=currentColor" alt="python" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://icongr.am/devicon/github-original.svg?size=80&color=currentColor" alt="github" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://icongr.am/devicon/chrome-original.svg?size=80&color=000000" alt="google" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://icongr.am/material/chart-line.svg?size=80&color=000000" alt="CNN" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://icongr.am/entypo/icloud.svg?size=80&color=3fcbd5" alt="IBM cloud" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://icongr.am/entypo/database.svg?size=80&color=207f3c" alt="DB" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
+<img src="https://icongr.am/simple/anaconda.svg?size=80&color=23e60a&colored=false" alt="anaconda" width="45" height="45"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://icongr.am/simple/ibm.svg?size=80&color=000000&colored=false" alt="ibm" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://icongr.am/devicon/python-original.svg?size=80&color=currentColor" alt="python" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://icongr.am/devicon/github-original.svg?size=80&color=currentColor" alt="github" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://icongr.am/devicon/chrome-original.svg?size=80&color=000000" alt="google" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://icongr.am/material/chart-line.svg?size=80&color=000000" alt="CNN" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://icongr.am/entypo/icloud.svg?size=80&color=3fcbd5" alt="IBM cloud" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://icongr.am/entypo/database.svg?size=80&color=207f3c" alt="DB" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://icongr.am/material/chart-scatter-plot.svg?size=80&color=e6360a" alt="ML" width="45" height="45"/>
 </p>
 
