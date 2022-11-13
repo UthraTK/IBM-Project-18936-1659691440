@@ -20,7 +20,7 @@ Natural Disasters Intensity Analysis and Classification is a simple ML and DL ba
   🔷 Python-Flask
   🔶 Reinforcement Learning`
   
-## :arrow_forward: TOOLS USED
+## :arrow_forward: APPLICATIONS USED
  <p align="left">
 <img src="https://icongr.am/simple/anaconda.svg?size=80&color=23e60a&colored=false" alt="anaconda" width="45" height="45"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://icongr.am/simple/ibm.svg?size=80&color=000000&colored=false" alt="ibm" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
