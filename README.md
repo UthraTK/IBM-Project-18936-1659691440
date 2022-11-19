@@ -56,7 +56,7 @@ To tackle this problem, we are developing a multilayered deep convolutional neur
 | --------------------------- | ------------ | ----------------------------------------------------------------------- |
 | Project Report              | Completed    |https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/tree/main/Project/Final%20Deliverables/1.%20Project%20Report |
 | Assignments                 | Completed    | https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/tree/main/Project/Assignments |
-| Project Preparation Phase   | Completed    |https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/tree/main/Project/Final%20Deliverables/3.%20Preparation%20Phase |
+|  Preparation Phase   | Completed    |https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/tree/main/Project/Final%20Deliverables/3.%20Preparation%20Phase |
 | Project Design & Planning   | Completed    | https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/tree/main/Project/Final%20Deliverables/4.%20Design%20and%20planning |
-| Project Development Phase   | Completed    |https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/tree/main/Project/Final%20Deliverables/5.%20Development|
-| Project Deployment Phase    | Completed    |https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/tree/main/Project/Final%20Deliverables/6.%20Deployment |
+|  Development Phase   | Completed    |https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/tree/main/Project/Final%20Deliverables/5.%20Development|
+|  Deployment Phase    | Completed    |https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/tree/main/Project/Final%20Deliverables/6.%20Deployment |
