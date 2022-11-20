@@ -1,9 +1,9 @@
 # :world_map: Natural Disasters Intensity Analysis and Classification using Artificial Intelligence
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://envhumanities.sites.gettysburg.edu/es225a-spring19/wp-content/uploads/2019/04/natural-disasters-of-earths-past-and-future-886x240.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://envhumanities.sites.gettysburg.edu/es225a-spring19/wp-content/uploads/2019/04/natural-disasters-of-earths-past-and-future-886x240.jpg">
-  <img alt="Shows some natural disasters" src="https://u4d2z7k9.rocketcdn.me/wp-content/uploads/2019/02/natural-disasters-of-earths-past-and-future.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/blob/main/Project/Final%20Deliverables/7.%20Advertising%20Product/BANNER.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/blob/main/Project/Final%20Deliverables/7.%20Advertising%20Product/BANNER.png">
+  <img alt="Banner" src="https://u4d2z7k9.rocketcdn.me/wp-content/uploads/2019/02/natural-disasters-of-earths-past-and-future.jpg">
 </picture>
 
 ## :arrow_forward: CONTRIBUTORS
