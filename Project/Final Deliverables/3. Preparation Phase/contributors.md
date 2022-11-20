@@ -1,4 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/blob/main/Project/Final%20Deliverables/7.%20Advertising%20Product/BANNER.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/blob/main/Project/Final%20Deliverables/7.%20Advertising%20Product/BANNER.png">
+  <img alt="Banner" src="https://u4d2z7k9.rocketcdn.me/wp-content/uploads/2019/02/natural-disasters-of-earths-past-and-future.jpg">
+</picture>
 
+# Preparation Phase
 |TASK| CONTRIBUTORS|
 |----------------------|-----------|
 | Project Objectives|<img src="https://icongr.am/material/alpha-s-circle-outline.svg?size=30&color=4934ea"> &nbsp;&nbsp; <img src="https://icongr.am/material/alpha-u-circle-outline.svg?size=30&color=0cac61"> &nbsp;&nbsp;|
