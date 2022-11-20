@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <style>
+        body {
+          font-family: "Lato", sans-serif;
+        }
+        
+        .sidenav {
+          height: 100%;
+          width: 250px;
+          position: fixed;
+          z-index: 1;
+          top: 0;
+          left: 0;
+          background-color: rgb(0, 78, 4);
+          overflow-x: hidden;
+          padding-top: 20px;
+        }
+        
+        .sidenav a {
+          padding: 6px 8px 6px 16px;
+          text-decoration: none;
+          font-size: 30px;
+          color: #7bf195;
+          display: block;
+        }
+        
+        .sidenav a:hover {
+          color: #f1f1f1;
+        }
+        
+        .main {
+          margin-left: 160px; /* Same as the width of the sidenav */
+          font-size: 25px; /* Increased text to enable scrolling */
+          padding: 0px 10px;
+        }
+        
+        @media screen and (max-height: 450px) {
+          .sidenav {padding-top: 15px;}
+          .sidenav a {font-size: 18px;}
+        }
+    </style>
+</head>
+<body>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    
+    <div class="sidenav">
+      <a href="{{ url_for('about')}}">About</a>
+      <a href="{{ url_for('upload')}}">Upload</a>
+      <a href="{{ url_for('mitigation')}}">Mitigation</a>
+      <a href="{{ url_for('statistics')}}">Statistics</a>
+      <a href="https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r">Earth</a>
+      <a href="{{ url_for('home')}}">Home</a>
+      <a href="{{ url_for('login')}}" style="color: rgb(255, 4, 4);"><b>LOGOUT</b></a>
+    </div> 
+    <div class="main">
+
+        <div style=" height:30px;"></div>
+        <div class="row" style="margin-left:100px;">
+        
+        <div class="card col" style="width: 18rem;">
+            <p></p>
+            <h2>PROFILE</h2>
+            <img src="/static/images/userr.jpg" class="card-img-top" style="height: 200px;width: 200px;" alt="...">
+            <div class="card-body">
+                    
+                    <b>User name:</b>Name<br><br>
+                    <b>User-id:</b>number<br>
+                    <b>User mail-id:</b>Email address<br>
+                    <b>Password:</b>Password<br>
+                    
+
+
+                    
+            </div>
+        </div>
+        <div class="col">
+            <div class="text-center">
+                <img src="/static/images/pie.jpg" class="rounded" alt="...">
+            </div>
+            <br>
+            <i>"Preparation through education is less costly than learning through tragedy."</i>
+            <br><br>
+            <div class="text-center">
+                <img src="/static/images/pie1.jpg" class="rounded" alt="...">
+            </div>
+        </div>
+        <div class="col">
+           
+            <div class="text-center">
+                <img src="/static/images/ttt.jpeg" class="rounded" style="width:300px; height: 600px;" alt="...">
+            </div>
+        </div>
+        </div>
+    </div>        
+</body>
+</html>
