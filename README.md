@@ -50,7 +50,9 @@ To tackle this problem, we are developing a multilayered deep convolutional neur
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/blob/main/Project/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%201/SOLUTION_ARCHITECTURE.png">
   <source media="(prefers-color-scheme: light)" srcset=" https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/blob/main/Project/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%201/SOLUTION_ARCHITECTURE.png">
-  <img alt="Shows some natural disasters" src="https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/blob/main/Project/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%201/SOLUTION_ARCHITECTURE.png">
+  <a href = "https://github.com/UthraTK/IBM-Project-18936-1659691440/blob/main/Project/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%201/SOLUTION_ARCHITECTURE.png">
+    <img alt="Solution Architecture" src="https://github.com/UthraTK/IBM-Project-18936-1659691440/blob/main/Project/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20-%201/SOLUTION_ARCHITECTURE.png">
+  </a>  
 </picture>
 
 ## :arrow_forward: TASKS COMPLETED
