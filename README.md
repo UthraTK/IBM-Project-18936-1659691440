@@ -3,7 +3,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/blob/main/Project/Final%20Deliverables/7.%20Advertising%20Product/BANNER.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/IBM-EPBL/IBM-Project-18936-1659691440/blob/main/Project/Final%20Deliverables/7.%20Advertising%20Product/BANNER.png">
-  <img alt="Banner" src="Project/Final Deliverables/7. Advertising Product/BANNER.png">
+  <a href = "https://github.com/UthraTK/IBM-Project-18936-1659691440/blob/main/Project/Final%20Deliverables/7.%20Advertising%20Product/BANNER.png">
+    <img alt="Banner" src="https://github.com/UthraTK/IBM-Project-18936-1659691440/blob/main/Project/Final%20Deliverables/7.%20Advertising%20Product/BANNER.png">
+  </a>  
 </picture>
 
 ## :arrow_forward: CONTRIBUTORS
